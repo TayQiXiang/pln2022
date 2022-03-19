@@ -24,9 +24,9 @@ You can check out the leaderboard here:
 - [Preliminary Round Leaderboard [Closed]](https://codeforces.com/spectator/ranklist/9cd46284fc158604d5bc326b86e04dc5) 
 - [Preliminary Round Leaderboard [Open]](https://codeforces.com/spectator/ranklist/d687fe4a28a7a1529ac15ac331fe5c9f)
 
->Congrats to *United Spirits of Malaysians* from closed category that managed to get all 5 questions, ranking 1 in closed category!
+>Congrats to **United Spirits of Malaysians** from closed category that managed to get all 5 questions, ranking 1 in closed category!
 >
->Congrats to *2 Blue 1 Violet* from open category that managed to get 4 questions, ranking 1 in open category!
+>Congrats to **2 Blue 1 Violet** from open category that managed to get 4 questions, ranking 1 in open category!
 
 ## Repository Structure
 
