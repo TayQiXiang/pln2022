@@ -6,7 +6,7 @@ Programming League is an annual competitive programming contest organised by the
 
 Categories included:
 
-- Closed Category is for all the first-year students.
+- Closed Category is for all the first-year students in UM.
 - Open Category is for all students in Malaysia.
 
 Rounds included:
