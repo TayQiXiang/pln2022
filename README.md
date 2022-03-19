@@ -89,12 +89,12 @@ The following table describes the slug for each problem:
   <tr>
     <td class="tg-gaoc">D</td>
     <td class="tg-gaoc">Line Intersection</td>
-    <td class="tg-gaoc">line-intersection</td>
+    <td class="tg-gaoc">line_intersection</td>
   </tr>
   <tr>
     <td class="tg-gaoc">E</td>
     <td class="tg-gaoc">Exploit Resources</td>
-    <td class="tg-gaoc">exploit-resources</td>
+    <td class="tg-gaoc">exploit_resources</td>
   </tr>
 
 </tbody>
