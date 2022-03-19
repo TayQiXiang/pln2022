@@ -32,7 +32,7 @@ You can check out the leaderboard here:
 
 Each round has their own folder which contains each category's folder and an editorial for the round.
 
-Each problem has their own folder in respective rounds and categories. The folder name is the `slug` of the problem. The following image shows the structure of this repository. 
+Each problem has their own folder in respective rounds and categories. The folder name is the `slug` of the problem. 
 
 The following table describes the slug for each problem:
 
