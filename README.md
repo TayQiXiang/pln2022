@@ -21,8 +21,8 @@ Programming League Contest 2022 is hosted using [Codeforces](https://codeforces.
 
 You can check out the leaderboard here:
 
-- [Preliminary Round Leaderboard [Closed]](https://codeforces.com/spectator/ranklist/9cd46284fc158604d5bc326b86e04dc5) 
-- [Preliminary Round Leaderboard [Open]](https://codeforces.com/spectator/ranklist/d687fe4a28a7a1529ac15ac331fe5c9f)
+- <a href="https://codeforces.com/spectator/ranklist/9cd46284fc158604d5bc326b86e04dc5" target="_blank">Preliminary Round Leaderboard [Closed]</a>
+- <a href="https://codeforces.com/spectator/ranklist/d687fe4a28a7a1529ac15ac331fe5c9f" target="_blank">Preliminary Round Leaderboard [Open]</a>
 
 >Congrats to **United Spirits of Malaysians** from closed category that managed to get all 5 questions, ranking 1 in closed category!
 >
