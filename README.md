@@ -106,6 +106,6 @@ The following table describes the slug for each problem:
 
 In the problem folder, there should be exactly the following files:
 - `PROBLEM.pdf`. The problem statement distributed to the contestants during the contest.
-- `solution.cpp`. The solution is written by me, Qi Xiang, which got accepted for the problem. **Note that this is not the official solution unless the problem is authored by me.** 
+- `solution.cpp`. **Note that this is not the official solution unless the problem is authored by me.** 
 
 In each round, there is a `pl2022_ROUND_editorial.pdf` which is the editorial of the round including both categories. 
