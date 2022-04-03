@@ -18,15 +18,19 @@ Programming League Contest 2022 is hosted using [Codeforces](https://codeforces.
 
 - [Preliminary Round [Closed]](https://t.ly/Ifa2) 
 - [Preliminary Round [Open]](https://t.ly/ftMf)
+- [Final Round [Closed]](https://codeforces.com/contestInvitation/091d51931c4983339179a0984cd39efe4f7debd8) 
+- [Final Round [Open]](https://codeforces.com/contestInvitation/9d8dbdf3f4d72da5a379203ca67a6ef5a130aa99)
 
 You can check out the leaderboard here:
 
 - <a href="https://codeforces.com/spectator/ranklist/9cd46284fc158604d5bc326b86e04dc5" target="_blank">Preliminary Round Leaderboard [Closed]</a>
 - <a href="https://codeforces.com/spectator/ranklist/d687fe4a28a7a1529ac15ac331fe5c9f" target="_blank">Preliminary Round Leaderboard [Open]</a>
+- <a href="https://codeforces.com/spectator/ranklist/afe951732d851c42fff038300cc5a392" target="_blank">Final Round Leaderboard [Closed]</a>
+- <a href="https://codeforces.com/spectator/ranklist/fe3a721e42cd648a8a464d5816eb3c2c" target="_blank">Final Round Leaderboard [Open]</a>
 
->Congrats to **United Spirits of Malaysians** from closed category that managed to get all 5 questions, ranking 1 in closed category!
+>Congrats to **United Spirits of Malaysians**, CHAMPION from closed category!
 >
->Congrats to **2 Blue 1 Violet** from open category that managed to get 4 questions, ranking 1 in open category!
+>Congrats to **2 Blue 1 Violet**, CHAMPION from open category!
 
 ## Repository Structure
 
@@ -100,7 +104,136 @@ The following table describes the slug for each problem:
     <td class="tg-gaoc">Exploit Resources</td>
     <td class="tg-gaoc">exploit_resources</td>
   </tr>
+  
 
+</tbody>
+</table>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:600;background-color:unset">Round</span></th>
+    <th class="tg-0pky"><span style="font-weight:600;background-color:unset">Category</span></th>
+    <th class="tg-0pky"><span style="font-weight:600;background-color:unset">Problem Code</span></th>
+    <th class="tg-0pky"><span style="font-weight:600;background-color:unset">Problem Title</span></th>
+    <th class="tg-0pky"><span style="font-weight:600;background-color:unset">Problem Slug</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" rowspan="9">Final</td>
+    <td class="tg-0pky" rowspan="10"><span style="background-color:unset">Closed</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">A</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">A Meowy Night</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">a-meowy-night</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="background-color:unset">B</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">Aspect Ratio</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">aspect-ratio</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="background-color:unset">C</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">Choosing Module</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">choosing-module</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="background-color:unset">D</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">Gas Station</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">gas-station</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">E</td>
+    <td class="tg-0lax">Identical Strings</td>
+    <td class="tg-0lax">identical-strings</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="background-color:unset">F</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">Mental Calculation</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">math-calculation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">G</td>
+    <td class="tg-0lax">Power Grid</td>
+    <td class="tg-0lax">powergrid</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">H</td>
+    <td class="tg-0lax">Prime Numbers</td>
+    <td class="tg-0lax">prime</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">I</td>
+    <td class="tg-0lax">Math Formula</td>
+    <td class="tg-0lax">math-formula</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">J</td>
+    <td class="tg-0lax">Wall Painting</td>
+    <td class="tg-0lax">wall-painting</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky" rowspan="10">Open</td>
+    <td class="tg-0pky"><span style="background-color:unset">A</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">Birthday Cake</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">birthday-cake</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="background-color:unset">B</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">Catnip Trading</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">catnip-trading</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="background-color:unset">C</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">Checkers</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">checkers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="background-color:unset">D</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">Chocolate Buffet</span></td>
+    <td class="tg-0pky"><span style="background-color:unset">chocolate</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">E</td>
+    <td class="tg-0pky">Count Equal Pairs</td>
+    <td class="tg-0pky">count-equal-pairs</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="background-color:unset">F</span></td>
+    <td class="tg-0lax"><span style="background-color:unset">Dice</span></td>
+    <td class="tg-0lax"><span style="background-color:unset">dice</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">G</td>
+    <td class="tg-0lax">Railway Designer</td>
+    <td class="tg-0lax">railway-designer</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">H</td>
+    <td class="tg-0lax">Red Notice</td>
+    <td class="tg-0lax">red-notice</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">I</td>
+    <td class="tg-0lax">Security System</td>
+    <td class="tg-0lax">security-system</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">J</td>
+    <td class="tg-0lax">UM Librarian</td>
+    <td class="tg-0lax">um-librarian</td>
+  </tr>
 </tbody>
 </table>
 
