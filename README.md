@@ -107,7 +107,7 @@ The following table describes the slug for each problem:
   
 <tr>
     <td class="tg-0pky" rowspan="20">Final</td>
-    <td class="tg-0pky" rowspan="10"><span style="background-color:unset">Closed</span></td>
+    <td class="tg-0pky" rowspan="10">Closed</span></td>
     <td class="tg-0pky"><span style="background-color:unset">A</span></td>
     <td class="tg-0pky"><span style="background-color:unset">A Meowy Night</span></td>
     <td class="tg-0pky"><span style="background-color:unset">a-meowy-night</span></td>
@@ -158,8 +158,8 @@ The following table describes the slug for each problem:
     <td class="tg-0lax">wall-painting</td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="10">Open</td>
-    <td class="tg-0pky"><span style="background-color:unset">A</span></td>
+    <td class="tg-gaoc" rowspan="10">Open</td>
+    <td class="tg-0pky">A</span></td>
     <td class="tg-0pky"><span style="background-color:unset">Birthday Cake</span></td>
     <td class="tg-0pky"><span style="background-color:unset">birthday-cake</span></td>
   </tr>
