@@ -1,24 +1,18 @@
 #include <bits/stdc++.h>
 using namespace std;
-double x, y, n;
-double dfs(double x, double y, double d) {
-    double ans = 1000000000;
-    if (d == 1) {
-        if (x < y) swap(x, y);
-        return x / y;
-    }
-    double mx = x / d, my = y / d;
-    double ans1, ans2;
-    for (int i = 1; i <= d / 2; i++) {
-        ans1 = max(dfs(mx * i, y, i), dfs(x - mx * i, y, d - i));
-        // i/d area split into 1，（d-i)/d area split into d-i
-        ans2 = max(dfs(x, my * i, i), dfs(x, y - my * i, d - i));
-        ans = min(ans, min(ans1, ans2));
+
+double dfs(double x, double y, int n) {        // recursive search
+    if (n == 1) return max(x, y) / min(x, y);  // base case, return the ratio of long side to short side
+    double ans = 9999999999, mx = x / n, my = y / n;
+    for (int i = 1; i < n; i++) {
+        double horizontal_cut = max(dfs(mx * i, y, i), dfs(x - mx * i, y, n - i));
+        double vertical_cut = max(dfs(x, my * i, i), dfs(x, y - my * i, n - i));
+        ans = min(ans, min(horizontal_cut, vertical_cut));  // check horizontal and vertical cut which one is better
     }
     return ans;
 }
-
 int main() {
-    scanf("%lf%lf%lf", &x, &y, &n);
+    int x, y, n;
+    cin >> x >> y >> n;
     printf("%.6lf", dfs(x, y, n));
 }
