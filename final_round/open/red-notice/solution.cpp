@@ -18,8 +18,8 @@ int main() {
             hi = max(hi, a[i]);
         }
 
-        while(lo < hi) {
-            int mid = lo + (hi-lo)/2; // will prefer lo
+        while(lo < hi) {//binary search
+            int mid = lo + (hi-lo)/2; 
 
             int timeTaken = 0;
             for(int i = 0; i < n; i++) {
