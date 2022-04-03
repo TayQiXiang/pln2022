@@ -211,9 +211,4 @@ The following table describes the slug for each problem:
 </tbody>
 </table>
 
-
-In the problem folder, there should be exactly the following files:
-- `PROBLEM.pdf`. The problem statement distributed to the contestants during the contest.
-- `solution.cpp`. **Note that this is not the official solution unless the problem is authored by me.** 
-
 In each round, there is a `pl2022_ROUND_editorial.pdf` which is the editorial of the round including both categories. 
