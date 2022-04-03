@@ -105,23 +105,8 @@ The following table describes the slug for each problem:
     <td class="tg-gaoc">exploit_resources</td>
   </tr>
   
-
-</tbody>
-</table>
-
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky"><span style="font-weight:600;background-color:unset">Round</span></th>
-    <th class="tg-0pky"><span style="font-weight:600;background-color:unset">Category</span></th>
-    <th class="tg-0pky"><span style="font-weight:600;background-color:unset">Problem Code</span></th>
-    <th class="tg-0pky"><span style="font-weight:600;background-color:unset">Problem Title</span></th>
-    <th class="tg-0pky"><span style="font-weight:600;background-color:unset">Problem Slug</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky" rowspan="9">Final</td>
+<tr>
+    <td class="tg-0pky" rowspan="20">Final</td>
     <td class="tg-0pky" rowspan="10"><span style="background-color:unset">Closed</span></td>
     <td class="tg-0pky"><span style="background-color:unset">A</span></td>
     <td class="tg-0pky"><span style="background-color:unset">A Meowy Night</span></td>
@@ -168,74 +153,64 @@ The following table describes the slug for each problem:
     <td class="tg-0lax">math-formula</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0lax">J</td>
     <td class="tg-0lax">Wall Painting</td>
     <td class="tg-0lax">wall-painting</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky" rowspan="10">Open</td>
     <td class="tg-0pky"><span style="background-color:unset">A</span></td>
     <td class="tg-0pky"><span style="background-color:unset">Birthday Cake</span></td>
     <td class="tg-0pky"><span style="background-color:unset">birthday-cake</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky"><span style="background-color:unset">B</span></td>
     <td class="tg-0pky"><span style="background-color:unset">Catnip Trading</span></td>
     <td class="tg-0pky"><span style="background-color:unset">catnip-trading</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky"><span style="background-color:unset">C</span></td>
     <td class="tg-0pky"><span style="background-color:unset">Checkers</span></td>
     <td class="tg-0pky"><span style="background-color:unset">checkers</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky"><span style="background-color:unset">D</span></td>
     <td class="tg-0pky"><span style="background-color:unset">Chocolate Buffet</span></td>
     <td class="tg-0pky"><span style="background-color:unset">chocolate</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky">E</td>
     <td class="tg-0pky">Count Equal Pairs</td>
     <td class="tg-0pky">count-equal-pairs</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0lax"><span style="background-color:unset">F</span></td>
     <td class="tg-0lax"><span style="background-color:unset">Dice</span></td>
     <td class="tg-0lax"><span style="background-color:unset">dice</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0lax">G</td>
     <td class="tg-0lax">Railway Designer</td>
     <td class="tg-0lax">railway-designer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0lax">H</td>
     <td class="tg-0lax">Red Notice</td>
     <td class="tg-0lax">red-notice</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0lax">I</td>
     <td class="tg-0lax">Security System</td>
     <td class="tg-0lax">security-system</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0lax">J</td>
     <td class="tg-0lax">UM Librarian</td>
     <td class="tg-0lax">um-librarian</td>
   </tr>
 </tbody>
 </table>
+
 
 In the problem folder, there should be exactly the following files:
 - `PROBLEM.pdf`. The problem statement distributed to the contestants during the contest.
