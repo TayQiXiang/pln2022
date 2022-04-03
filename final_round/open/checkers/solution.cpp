@@ -5,7 +5,7 @@ using namespace std;
 
 typedef tuple<long long, long long, long long> state;
 
-// O(1)
+// O(1) 
 state upMonotone(state x, long long steps) {
     const auto& [a, b, c] = x;
     long long d1 = b-a, d2 = c-b;
