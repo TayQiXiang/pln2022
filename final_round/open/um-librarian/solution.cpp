@@ -3,7 +3,7 @@
 using namespace std;
 
 int idx[100050], a[100050][20];
-
+//merge sort
 long long merge(int lo, int hi, int l = 0) {
     if(hi-lo == 1) {
         return 0;
@@ -61,7 +61,7 @@ int main() {
             a[i][0] = idx[x];
         }
 
-        cout << merge(0, m) << endl;
+        cout << merge(0, m) << endl; 
     }
 
     return 0;
