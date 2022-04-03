@@ -3,7 +3,7 @@
 #include <vector>
 #include <algorithm>
 
-using namespace std;
+using namespace std; 
 
 class DisjointSet {
 private:
