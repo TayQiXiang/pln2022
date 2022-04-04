@@ -1,8 +1,8 @@
-# The 2022 Programming League Contest (University of Malaya)
+# The 2022 Programming League Contest (Universiti Malaya)
 
 ## Background of Programming League Contest
 
-Programming League is an annual competitive programming contest organised by the Faculty of Computer Science and Information Technology, University of Malaya where teams of 3 compete to solve algorithmic problems. 
+Programming League is an annual competitive programming contest organised by the Faculty of Computer Science and Information Technology, Universiti Malaya where teams of 3 compete to solve algorithmic problems. 
 
 Categories included:
 
